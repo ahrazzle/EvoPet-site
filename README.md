@@ -24,7 +24,7 @@ npm run build    # astro build -> dist/
 npm run preview  # serve dist/
 ```
 
-Node 20 or newer.
+Node 22.12 or newer (Astro 7 requires it).
 
 ## Configuration
 
